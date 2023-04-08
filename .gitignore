@@ -1,0 +1,9 @@
+.vscode
+
+.parcel-cache
+
+*.map
+
+node_modules
+
+dist
